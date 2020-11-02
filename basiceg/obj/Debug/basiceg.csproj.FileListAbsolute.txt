@@ -1,0 +1,7 @@
+C:\Users\swath\Documents\c#\day 1_c#\basiceg\basiceg\obj\Debug\basiceg.csprojAssemblyReference.cache
+C:\Users\swath\Documents\c#\day 1_c#\basiceg\basiceg\obj\Debug\basiceg.csproj.CoreCompileInputs.cache
+C:\Users\swath\Documents\c#\day 1_c#\basiceg\basiceg\bin\Debug\basiceg.exe.config
+C:\Users\swath\Documents\c#\day 1_c#\basiceg\basiceg\bin\Debug\basiceg.exe
+C:\Users\swath\Documents\c#\day 1_c#\basiceg\basiceg\bin\Debug\basiceg.pdb
+C:\Users\swath\Documents\c#\day 1_c#\basiceg\basiceg\obj\Debug\basiceg.exe
+C:\Users\swath\Documents\c#\day 1_c#\basiceg\basiceg\obj\Debug\basiceg.pdb
