@@ -21,6 +21,13 @@ namespace basiceg
             result = num2 - num1;
 
             Console.WriteLine("Subtraction:{0}", result);
+            
+             //multiplication
+           
+
+            result = num2 * num1;
+
+            Console.WriteLine("Multiplication:{0}", result);
 
 
             Console.ReadKey();
